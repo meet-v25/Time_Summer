@@ -7,3 +7,7 @@ Keep inserting the time durations (with or without any special characters like :
   4. If you do not enter preceding zeros, it will still work
 
 eg. 
+'1' = '01' = '001' = '0001' etc = 1 second
+'123' = 1 minute 23 seconds
+'12345' = 1 hour 23 minutes 45 seconds
+'0012034567' = 1203 hours 45 minutes 67 seconds
