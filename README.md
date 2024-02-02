@@ -11,3 +11,6 @@ eg.
 '123' = 1 minute 23 seconds
 '12345' = 1 hour 23 minutes 45 seconds
 '0012034567' = 1203 hours 45 minutes 67 seconds
+
+After the above input, if in the same line, you enter * followed by integer, it will multiply the above time by the number after *
+
